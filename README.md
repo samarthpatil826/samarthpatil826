@@ -15,6 +15,10 @@
 </p>
 
 
+- 💬 Ask me about **Java, Hibernate, SQL, and Web Development**
+- 📫 How to reach me: **psamarth826@gmail.com**
+- ⚡ Fun fact: I love solving problems and exploring new technologies!
+
 ---
 
 ## 🧰 Tech Stack
@@ -48,10 +52,6 @@
   <a href="mailto:psamarth826@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samarthpatil&color=blue&style=flat-square&label=Profile+Views"/>
+  <a href="[https://www.hackerrank.com/samarthpatil826](https://www.hackerrank.com/profile/psamarth826)">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
