@@ -52,6 +52,6 @@
   <a href="mailto:psamarth826@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="[https://www.hackerrank.com/samarthpatil826](https://www.hackerrank.com/profile/psamarth826)">
+  <a href="https://www.hackerrank.com/profile/psamarth826">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
