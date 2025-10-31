@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/samarthpatil">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF5733&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Java+Developer;Java+%7C+JDBC+%7C+Hibernate+(JPA);MySQL+%7C+Oracle+%7C+PostgreSQL;HTML+%7C+CSS+%7C;Passionate+About+Clean+Code+%26"/>
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FF5733&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Java+Developer;Java+%7C+JDBC+%7C+Hibernate+(JPA);MySQL+%7C+Oracle+%7C+PostgreSQL;HTML+%7C+CSS;Passionate+About+Clean+Code/>
   </a>
 </p>
 
