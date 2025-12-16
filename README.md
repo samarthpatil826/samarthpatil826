@@ -23,15 +23,28 @@
 
 ## 🧰 Tech Stack
 <p align="center">
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlets-2F2625?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+  <!-- Persistence -->
   <img src="https://img.shields.io/badge/JDBC-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-teal?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
 
 ---
 
